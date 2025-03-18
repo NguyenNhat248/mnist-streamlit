@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/d67599bad902468daf8a04858ba1865b/artifacts
+end_time: 1741593368774
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: d67599bad902468daf8a04858ba1865b
+run_name: crawling-fowl-132
+run_uuid: d67599bad902468daf8a04858ba1865b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741593341516
+status: 3
+tags: []
+user_id: ADMIN

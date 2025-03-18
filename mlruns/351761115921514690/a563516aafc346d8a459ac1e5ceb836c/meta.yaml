@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/a563516aafc346d8a459ac1e5ceb836c/artifacts
+end_time: 1741595731608
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: a563516aafc346d8a459ac1e5ceb836c
+run_name: receptive-newt-903
+run_uuid: a563516aafc346d8a459ac1e5ceb836c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595724516
+status: 3
+tags: []
+user_id: ADMIN

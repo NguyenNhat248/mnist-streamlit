@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/4c1665dd303845c880760c40973629a0/artifacts
+end_time: 1741598683857
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 4c1665dd303845c880760c40973629a0
+run_name: nervous-stoat-484
+run_uuid: 4c1665dd303845c880760c40973629a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741598681172
+status: 3
+tags: []
+user_id: ADMIN

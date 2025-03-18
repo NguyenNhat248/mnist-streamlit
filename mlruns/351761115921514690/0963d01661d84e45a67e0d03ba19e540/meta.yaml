@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/0963d01661d84e45a67e0d03ba19e540/artifacts
+end_time: 1741596660375
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 0963d01661d84e45a67e0d03ba19e540
+run_name: incongruous-cat-146
+run_uuid: 0963d01661d84e45a67e0d03ba19e540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596659004
+status: 4
+tags: []
+user_id: ADMIN

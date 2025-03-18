@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/6d7928b1f4d046e7a8ef54721debb5dd/artifacts
+end_time: 1742198331548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d7928b1f4d046e7a8ef54721debb5dd
+run_name: rare-bat-248
+run_uuid: 6d7928b1f4d046e7a8ef54721debb5dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742198326320
+status: 3
+tags: []
+user_id: ADMIN

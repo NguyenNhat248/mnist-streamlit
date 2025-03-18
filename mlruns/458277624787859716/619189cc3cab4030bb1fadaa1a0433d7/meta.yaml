@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/619189cc3cab4030bb1fadaa1a0433d7/artifacts
+end_time: 1741595320728
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: 619189cc3cab4030bb1fadaa1a0433d7
+run_name: painted-koi-283
+run_uuid: 619189cc3cab4030bb1fadaa1a0433d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595303340
+status: 3
+tags: []
+user_id: ADMIN

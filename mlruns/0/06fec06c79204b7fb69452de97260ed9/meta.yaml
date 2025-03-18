@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/06fec06c79204b7fb69452de97260ed9/artifacts
+end_time: 1742193681659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06fec06c79204b7fb69452de97260ed9
+run_name: wistful-goat-116
+run_uuid: 06fec06c79204b7fb69452de97260ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742193678222
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/98fdb85a92b9419ab92bb433bc17971b/artifacts
+end_time: 1741595735143
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 98fdb85a92b9419ab92bb433bc17971b
+run_name: handsome-koi-832
+run_uuid: 98fdb85a92b9419ab92bb433bc17971b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595726368
+status: 3
+tags: []
+user_id: ADMIN

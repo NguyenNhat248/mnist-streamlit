@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/fb074e3e00de435bb0fad0c6213222cb/artifacts
+end_time: 1741597051554
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: fb074e3e00de435bb0fad0c6213222cb
+run_name: caring-squid-497
+run_uuid: fb074e3e00de435bb0fad0c6213222cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741597050344
+status: 3
+tags: []
+user_id: ADMIN

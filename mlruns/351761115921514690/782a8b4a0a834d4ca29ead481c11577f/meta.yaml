@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/782a8b4a0a834d4ca29ead481c11577f/artifacts
+end_time: 1741596960486
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 782a8b4a0a834d4ca29ead481c11577f
+run_name: luminous-crane-596
+run_uuid: 782a8b4a0a834d4ca29ead481c11577f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596959337
+status: 3
+tags: []
+user_id: ADMIN

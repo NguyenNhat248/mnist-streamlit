@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/f08f7904aa4246cd849d443ab80031da/artifacts
+end_time: 1741596685845
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: f08f7904aa4246cd849d443ab80031da
+run_name: victorious-snail-848
+run_uuid: f08f7904aa4246cd849d443ab80031da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596684680
+status: 3
+tags: []
+user_id: ADMIN

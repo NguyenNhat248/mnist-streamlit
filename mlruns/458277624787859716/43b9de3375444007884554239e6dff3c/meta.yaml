@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/43b9de3375444007884554239e6dff3c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: 43b9de3375444007884554239e6dff3c
+run_name: whimsical-midge-43
+run_uuid: 43b9de3375444007884554239e6dff3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741598898932
+status: 1
+tags: []
+user_id: ADMIN

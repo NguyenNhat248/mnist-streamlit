@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/29254c794c8243a6b6b679238ee55852/artifacts
+end_time: 1742200661425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29254c794c8243a6b6b679238ee55852
+run_name: charming-crab-740
+run_uuid: 29254c794c8243a6b6b679238ee55852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742200661378
+status: 3
+tags: []
+user_id: ADMIN

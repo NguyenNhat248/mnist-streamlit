@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/02aa63017a8f49138922c3d37e3e4ddd/artifacts
+end_time: 1741597623100
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 02aa63017a8f49138922c3d37e3e4ddd
+run_name: popular-skunk-409
+run_uuid: 02aa63017a8f49138922c3d37e3e4ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741597622116
+status: 3
+tags: []
+user_id: ADMIN

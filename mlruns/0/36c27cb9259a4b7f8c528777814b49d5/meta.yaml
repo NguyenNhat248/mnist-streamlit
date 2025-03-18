@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/36c27cb9259a4b7f8c528777814b49d5/artifacts
+end_time: 1742194409081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36c27cb9259a4b7f8c528777814b49d5
+run_name: useful-donkey-269
+run_uuid: 36c27cb9259a4b7f8c528777814b49d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742194405633
+status: 3
+tags: []
+user_id: ADMIN

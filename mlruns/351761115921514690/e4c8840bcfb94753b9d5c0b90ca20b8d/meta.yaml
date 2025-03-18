@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/e4c8840bcfb94753b9d5c0b90ca20b8d/artifacts
+end_time: 1741596657306
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: e4c8840bcfb94753b9d5c0b90ca20b8d
+run_name: gentle-foal-44
+run_uuid: e4c8840bcfb94753b9d5c0b90ca20b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596656041
+status: 3
+tags: []
+user_id: ADMIN

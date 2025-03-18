@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/bafcba4ab8c4439388409f115cc65385/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: bafcba4ab8c4439388409f115cc65385
+run_name: dazzling-steed-465
+run_uuid: bafcba4ab8c4439388409f115cc65385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595649221
+status: 1
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/4de2e7ea0ad44350add46fc89de8ee0c/artifacts
+end_time: 1741596403769
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: 4de2e7ea0ad44350add46fc89de8ee0c
+run_name: respected-fowl-47
+run_uuid: 4de2e7ea0ad44350add46fc89de8ee0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596381358
+status: 3
+tags: []
+user_id: ADMIN

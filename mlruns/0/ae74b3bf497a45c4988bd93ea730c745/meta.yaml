@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/ae74b3bf497a45c4988bd93ea730c745/artifacts
+end_time: 1742192442231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae74b3bf497a45c4988bd93ea730c745
+run_name: fearless-trout-290
+run_uuid: ae74b3bf497a45c4988bd93ea730c745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742192404771
+status: 3
+tags: []
+user_id: ADMIN

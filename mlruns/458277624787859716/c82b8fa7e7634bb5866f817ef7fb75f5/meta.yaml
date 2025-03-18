@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/c82b8fa7e7634bb5866f817ef7fb75f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: c82b8fa7e7634bb5866f817ef7fb75f5
+run_name: rogue-pig-159
+run_uuid: c82b8fa7e7634bb5866f817ef7fb75f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741594003304
+status: 1
+tags: []
+user_id: ADMIN

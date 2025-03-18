@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/b74da6abb4d149b782ee6f075f7be80d/artifacts
+end_time: 1741595664481
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: b74da6abb4d149b782ee6f075f7be80d
+run_name: serious-eel-315
+run_uuid: b74da6abb4d149b782ee6f075f7be80d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595641040
+status: 4
+tags: []
+user_id: ADMIN

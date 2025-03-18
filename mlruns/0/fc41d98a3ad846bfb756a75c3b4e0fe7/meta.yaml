@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/fc41d98a3ad846bfb756a75c3b4e0fe7/artifacts
+end_time: 1742194571343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc41d98a3ad846bfb756a75c3b4e0fe7
+run_name: clean-snail-227
+run_uuid: fc41d98a3ad846bfb756a75c3b4e0fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742194567003
+status: 3
+tags: []
+user_id: ADMIN

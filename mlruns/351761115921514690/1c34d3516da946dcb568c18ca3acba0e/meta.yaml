@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/1c34d3516da946dcb568c18ca3acba0e/artifacts
+end_time: 1741598158115
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: 1c34d3516da946dcb568c18ca3acba0e
+run_name: dapper-asp-74
+run_uuid: 1c34d3516da946dcb568c18ca3acba0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741598147099
+status: 3
+tags: []
+user_id: ADMIN

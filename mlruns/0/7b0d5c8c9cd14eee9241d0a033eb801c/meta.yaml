@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/7b0d5c8c9cd14eee9241d0a033eb801c/artifacts
+end_time: 1742200546751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b0d5c8c9cd14eee9241d0a033eb801c
+run_name: funny-kit-120
+run_uuid: 7b0d5c8c9cd14eee9241d0a033eb801c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742200546681
+status: 3
+tags: []
+user_id: ADMIN

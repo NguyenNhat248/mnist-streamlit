@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/74f33a966d47497d90b65f4f8946c633/artifacts
+end_time: 1742194345191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74f33a966d47497d90b65f4f8946c633
+run_name: dapper-crow-815
+run_uuid: 74f33a966d47497d90b65f4f8946c633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742194320283
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/97d9bdef36304a11a21b48826134138a/artifacts
+end_time: 1742196188097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d9bdef36304a11a21b48826134138a
+run_name: adventurous-cow-108
+run_uuid: 97d9bdef36304a11a21b48826134138a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742196184862
+status: 3
+tags: []
+user_id: ADMIN

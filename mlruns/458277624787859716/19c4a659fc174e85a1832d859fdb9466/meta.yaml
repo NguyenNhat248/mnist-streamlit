@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/19c4a659fc174e85a1832d859fdb9466/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: 19c4a659fc174e85a1832d859fdb9466
+run_name: thoughtful-fowl-47
+run_uuid: 19c4a659fc174e85a1832d859fdb9466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741593450196
+status: 1
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/a7f166861924457facf3099eccee03cb/artifacts
+end_time: 1742193896988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7f166861924457facf3099eccee03cb
+run_name: angry-jay-165
+run_uuid: a7f166861924457facf3099eccee03cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742193873837
+status: 3
+tags: []
+user_id: ADMIN

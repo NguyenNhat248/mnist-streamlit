@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/fc1fa9b3ea7242a8a7f78d03ce96ad1c/artifacts
+end_time: 1741596950376
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: fc1fa9b3ea7242a8a7f78d03ce96ad1c
+run_name: masked-deer-311
+run_uuid: fc1fa9b3ea7242a8a7f78d03ce96ad1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596949350
+status: 3
+tags: []
+user_id: ADMIN

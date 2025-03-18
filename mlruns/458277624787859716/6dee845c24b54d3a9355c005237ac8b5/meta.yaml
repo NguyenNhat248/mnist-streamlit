@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/6dee845c24b54d3a9355c005237ac8b5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: 6dee845c24b54d3a9355c005237ac8b5
+run_name: classy-dolphin-53
+run_uuid: 6dee845c24b54d3a9355c005237ac8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741598735279
+status: 1
+tags: []
+user_id: ADMIN

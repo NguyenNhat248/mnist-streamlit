@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/458277624787859716/cd2596e6b1dd486cba2b8522806bb1da/artifacts
+end_time: 1741595349588
+entry_point_name: ''
+experiment_id: '458277624787859716'
+lifecycle_stage: active
+run_id: cd2596e6b1dd486cba2b8522806bb1da
+run_name: handsome-ant-49
+run_uuid: cd2596e6b1dd486cba2b8522806bb1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595328948
+status: 3
+tags: []
+user_id: ADMIN

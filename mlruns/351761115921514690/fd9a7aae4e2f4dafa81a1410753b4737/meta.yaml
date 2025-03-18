@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/fd9a7aae4e2f4dafa81a1410753b4737/artifacts
+end_time: 1741596766618
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: fd9a7aae4e2f4dafa81a1410753b4737
+run_name: brawny-midge-889
+run_uuid: fd9a7aae4e2f4dafa81a1410753b4737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741596765897
+status: 3
+tags: []
+user_id: ADMIN

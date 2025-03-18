@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/f03c0365f52745e2a48e4bd6821b4168/artifacts
+end_time: 1741597056594
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: f03c0365f52745e2a48e4bd6821b4168
+run_name: sincere-dolphin-131
+run_uuid: f03c0365f52745e2a48e4bd6821b4168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741597055252
+status: 3
+tags: []
+user_id: ADMIN

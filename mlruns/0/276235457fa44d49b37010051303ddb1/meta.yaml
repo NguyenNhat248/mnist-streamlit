@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/0/276235457fa44d49b37010051303ddb1/artifacts
+end_time: 1742194974419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 276235457fa44d49b37010051303ddb1
+run_name: adorable-hog-964
+run_uuid: 276235457fa44d49b37010051303ddb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742194971065
+status: 3
+tags: []
+user_id: ADMIN

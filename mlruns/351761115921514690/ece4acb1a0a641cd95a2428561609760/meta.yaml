@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/21t1020563/MNIST%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay/mlruns/351761115921514690/ece4acb1a0a641cd95a2428561609760/artifacts
+end_time: 1741595749974
+entry_point_name: ''
+experiment_id: '351761115921514690'
+lifecycle_stage: active
+run_id: ece4acb1a0a641cd95a2428561609760
+run_name: indecisive-mouse-405
+run_uuid: ece4acb1a0a641cd95a2428561609760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741595749385
+status: 4
+tags: []
+user_id: ADMIN
